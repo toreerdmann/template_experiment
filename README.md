@@ -1,8 +1,8 @@
 
 # Experiment template 
 
-This folder contains the example code for the blog post at
-[](www.toreerdmann.it/data-saving.html).
+This folder contains the example code for the blog post at 
+<www.toreerdmann.it/data-saving.html>.
 
 
 ## Usage
