@@ -29,6 +29,7 @@ var timeline = [
 firebase.auth().onAuthStateChanged(function(user) {
     if (user) {
         uid = user.uid;
+        console.log(`uid: ${uid}`);
         jsPsych.run(timeline);
     }
 });
