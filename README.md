@@ -2,7 +2,7 @@
 # Experiment template 
 
 This folder contains the example code for the blog post at
-()[www.toreerdmann.it/data-saving.html].
+[](www.toreerdmann.it/data-saving.html).
 
 
 ## Usage
@@ -10,7 +10,8 @@ This folder contains the example code for the blog post at
 ### Collecting data with firebase
 
 1. Setup your firebase account with the firestore service.
-2. Replace the contents of `firebase_setup.js` with your firebase config (look for "SDK setup and configuration" on the firebase console).
+2. Replace the contents of `firebase_setup.js` with your firebase config (look
+   for "SDK setup and configuration" on the firebase console).
 3. Setup anonymous authentification for you firebase project.
 
 Open `index.html` with a web browser and it should just work. You'll see a
